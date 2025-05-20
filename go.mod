@@ -1,4 +1,4 @@
-module hw1
+module github.com/Sanchit-panday/web-crawler
 
 go 1.21.2
 
